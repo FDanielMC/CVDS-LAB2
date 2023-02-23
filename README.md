@@ -1,2 +1,2 @@
 # CVDS-LAB2
-## Daniel Fernando Moreno Cerón.
+## Daniel Fernando Moreno Cerón && Juan Felipe Vivas Manrique.
